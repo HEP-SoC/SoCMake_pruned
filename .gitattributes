@@ -1,0 +1,8 @@
+examples/verilator/graph.png filter=lfs diff=lfs merge=lfs -text
+examples/verilator/legend.png filter=lfs diff=lfs merge=lfs -text
+docs/package-lock.json filter=lfs diff=lfs merge=lfs -text
+docs/static/examples/sim_example.mp4 filter=lfs diff=lfs merge=lfs -text
+docs/static/img/SoCMakeLogo.png filter=lfs diff=lfs merge=lfs -text
+docs/static/img/SoCMakeLogo3.png filter=lfs diff=lfs merge=lfs -text
+docs/static/img/docusaurus-social-card.jpg filter=lfs diff=lfs merge=lfs -text
+docs/static/img/docusaurus.png filter=lfs diff=lfs merge=lfs -text
